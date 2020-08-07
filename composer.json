@@ -1,0 +1,22 @@
+{
+    "name": "ivanmtw/php_dashamail",
+    "type": "library",
+    "description": "PHP Library for API Dashamail.ru - russian email-marketing service. Fork for Composer",
+    "keywords": [
+    	"dashamail",
+    	"email",
+    	"api"
+    ],
+    "homepage": "https://github.com/ivanmtw/php_dashamail",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Matveev",
+            "email": "ivanmtw@gmail.com",
+            "homepage": "https://github.com/ivanmtw/"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
